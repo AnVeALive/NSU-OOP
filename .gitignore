@@ -1,0 +1,17 @@
+.DS_Store
+
+*.dSYM/
+
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+.idea/
+
+~*
+
+cmake-build-debug
+build
